@@ -82,5 +82,3 @@ if __name__ =="__main__":
 
 # CNN_Skin_Cancer_Flask
 
-# CNN_Skin_Cancer_Flask
-
